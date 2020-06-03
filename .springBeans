@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beansProjectDescription>
+	<version>1</version>
+	<pluginVersion><![CDATA[3.9.11.201912160804-RELEASE]]></pluginVersion>
+	<configSuffixes>
+		<configSuffix><![CDATA[xml]]></configSuffix>
+	</configSuffixes>
+	<enableImports><![CDATA[false]]></enableImports>
+	<configs>
+		<config>WebContent/WEB-INF/configs/spring-config-uploadfile.xml</config>
+	</configs>
+	<autoconfigs>
+		<config>WebContent/WEB-INF/configs/spring-config-gmail.xml</config>
+		<config>WebContent/WEB-INF/configs/spring-config-hibernate.xml</config>
+		<config>WebContent/WEB-INF/configs/spring-config-multilanguage.xml</config>
+		<config>WebContent/WEB-INF/configs/spring-config-mvc.xml</config>
+	</autoconfigs>
+	<configSets>
+	</configSets>
+</beansProjectDescription>

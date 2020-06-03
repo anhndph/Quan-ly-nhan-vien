@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//i18n-res/admin.GhiTTvaKL.properties=UTF-8
+encoding//i18n-res/admin.GhiTTvaKL_vi.properties=UTF-8
+encoding//i18n-res/admin.QLNV_vi.properties=UTF-8
+encoding//i18n-res/admin.QLPB.properties=UTF-8
+encoding//i18n-res/admin.QLPB_vi.properties=UTF-8
+encoding//i18n-res/admin.TotalTTvaKL_vi.properties=UTF-8
+encoding//src/poly/controller/DepartsController.java=UTF-8
+encoding//src/poly/controller/LoginController.java=UTF-8
+encoding//src/poly/controller/Mailer.java=UTF-8
+encoding//src/poly/controller/RecordsController.java=UTF-8
+encoding//src/poly/controller/StaffsController.java=UTF-8
+encoding//src/poly/dao/RecordsDao.java=UTF-8
+encoding//src/poly/dao/StaffsDao.java=UTF-8
+encoding//src/poly/entity/Departs.java=UTF-8
+encoding//src/poly/entity/Staffs.java=UTF-8
